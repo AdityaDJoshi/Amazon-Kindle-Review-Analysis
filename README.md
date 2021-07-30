@@ -5,5 +5,7 @@ NLP Project made as a part of the SmartBridge Externship program. The backend is
 <ul>
   <li>Python version 3.7 or higher</li>
   <li>Anaconda environment(for python notebooks)</li>
-  <li>All libraries included in requirements.txt</li>
+  <li>install all libraries included in requirements.txt using pip3 install -r requirements.txt</li>
+  <li>download the model from the link https://drive.google.com/drive/folders/1BwG43LPdEiZa0PO1AJ499NzhhJJBr0BH?usp=sharing and place it in the same folder as the app.py file
+    <li> Have a working internet connection
 </ul>
